@@ -12,10 +12,11 @@ password = input('Enter password: ')
 if login == 'abc' and password == '123':
     print('SUCCESS')
 
-print('s')
-print('sSDFSDFtest')
-print('somSDFSDFest')
-print('someSDFSDFSDFest')
+input()
+input()
+input()
+input()
+input()
 
 print('abc')
 
