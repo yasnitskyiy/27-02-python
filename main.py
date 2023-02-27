@@ -12,3 +12,8 @@ password = input('Enter password: ')
 if login == 'abc' and password == '123':
     print('SUCCESS')
 
+print('some work in test')
+print('some work in test')
+print('some work in test')
+print('some work in test')
+
