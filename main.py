@@ -11,15 +11,4 @@ print('while end')
 def func():
     print('bla bla')
 
-
-
-
-
-
-
-
-
-
-print('CHECJ CHERRY')
-
-
+print('CHECK CHERRY')
