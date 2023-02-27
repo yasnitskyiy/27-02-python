@@ -14,9 +14,8 @@ if login == 'abc' and password == '123':
 
 input()
 input()
-input()
-input()
-input()
 
-print('abc')
-
+x = 3
+y = 5
+print(x)
+z = 6
