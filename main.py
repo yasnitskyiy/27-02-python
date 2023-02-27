@@ -12,10 +12,10 @@ password = input('Enter password: ')
 if login == 'abc' and password == '123':
     print('SUCCESS')
 
-print('some work in test')
-print('some work in test')
-print('some work in test')
-print('some work in test')
+x = 3
+y = 5
+print(x)
+z = 6
+q = 10
 
-print('abc')
 
