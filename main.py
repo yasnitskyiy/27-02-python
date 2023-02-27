@@ -6,3 +6,8 @@ while i < 5:
     print(i)
     i += 1
 print('while end')
+
+
+def func():
+    print('bla bla')
+
