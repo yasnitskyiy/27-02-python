@@ -9,3 +9,5 @@ print('^)')
 print('THIS INFO FROM GITHUN editor')
 
 print('hi, form misha!')
+
+print('A00cdcv')
