@@ -7,3 +7,5 @@ print('TRY TO PULL ME')
 print('^)')
 
 print('THIS INFO FROM GITHUN editor')
+
+print('hi, form misha!')
