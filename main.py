@@ -14,3 +14,6 @@ def func():
 print('CHECK CHERRY')
 
 print('this changes go from githun')
+
+
+print("Secret code 010010101 ;>")
