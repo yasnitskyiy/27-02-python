@@ -9,5 +9,4 @@ print('^)')
 print('THIS INFO FROM GITHUN editor')
 
 print('hi, form misha!')
-
-print('try to pull me')
+print('hi from nata')
